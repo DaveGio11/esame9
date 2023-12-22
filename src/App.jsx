@@ -11,7 +11,7 @@ function App() {
       <MyNav />
       <TopBar />
       <Gallery searchValue="Cristo" />
-      <Gallery searchValue="Superman" />
+      <Gallery searchValue="Devil" />
       <Gallery searchValue="Iron man" />
       <Gallery searchValue="Rocco" />
       <Myfooter />
