@@ -4,7 +4,7 @@ import { Facebook, Instagram, Twitter, Youtube } from "react-bootstrap-icons";
 
 const Myfooter = () => {
   return (
-    <footer className="mt-5 mx-0 px-4 bg-dark">
+    <footer className="mt-5 mx-5  bg-dark">
       <Container fluid>
         <Row>
           <Col xs={12} lg={3} className="d-flex justify-content-center p-0 mb-3" id="bootstrap-icons">
