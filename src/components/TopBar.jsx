@@ -14,7 +14,7 @@ function TopBar() {
             <NavDropdown title="Genres" id="navbarScrollingDropdown">
               <NavDropdown.Item href="#action3">Commedy</NavDropdown.Item>
               <NavDropdown.Item href="#action4">Fantasy</NavDropdown.Item>
-              <NavDropdown.Item href="#action5">Blasfemi</NavDropdown.Item>
+              <NavDropdown.Item href="#action5">Anime</NavDropdown.Item>
             </NavDropdown>
           </Nav>
           <Nav>

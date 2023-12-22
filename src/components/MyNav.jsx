@@ -17,8 +17,8 @@ function MyNav() {
             <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#link">TV Shows</Nav.Link>
             <Nav.Link href="#link">Movies</Nav.Link>
-            <Nav.Link href="#link">Recently Added</Nav.Link>
-            <Nav.Link href="#link">My List</Nav.Link>
+            <Nav.Link href="#link">Aggiunti di recente</Nav.Link>
+            <Nav.Link href="#link">Preferiti</Nav.Link>
           </Nav>
           <Nav>
             <Nav.Link className="me-2" href="#">
